@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 393697c1eb03123fdf6f2e1f42bdff93ecf8fa96 Bonkers1241414 <popkorol14@gmail.com> 1713702936 +0300	commit (initial): Додано нові файли
+393697c1eb03123fdf6f2e1f42bdff93ecf8fa96 2886c8f0a577461dea3e6e29207060ec6b8d2775 Bonkers1241414 <popkorol14@gmail.com> 1713703038 +0300	commit: Внесено зміни у file1.txt
+2886c8f0a577461dea3e6e29207060ec6b8d2775 2886c8f0a577461dea3e6e29207060ec6b8d2775 Bonkers1241414 <popkorol14@gmail.com> 1713703170 +0300	checkout: moving from master to new_branch
+2886c8f0a577461dea3e6e29207060ec6b8d2775 485535770bbb0ca0d3af6cca0ae2649eb669212a Bonkers1241414 <popkorol14@gmail.com> 1713703248 +0300	commit: Зміни у файлі на новій гілці
+485535770bbb0ca0d3af6cca0ae2649eb669212a 2886c8f0a577461dea3e6e29207060ec6b8d2775 Bonkers1241414 <popkorol14@gmail.com> 1713703366 +0300	checkout: moving from new_branch to master
+2886c8f0a577461dea3e6e29207060ec6b8d2775 485535770bbb0ca0d3af6cca0ae2649eb669212a Bonkers1241414 <popkorol14@gmail.com> 1713703608 +0300	merge new_branch: Fast-forward
